@@ -1,0 +1,5 @@
+datetime
+time
+operator
+requests
+mysql.connector
