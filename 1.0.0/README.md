@@ -3,7 +3,7 @@ EliServices Ground Assistant Library
   Documentation: eliservices.servehttp.com/docs/ga_lib.html
   For questions feel free to mail me via eliservices.server@gmail.com
 
-Installation
+Installation:
   pip install ground-assistant
 
 Owner:
