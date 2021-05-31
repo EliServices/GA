@@ -15,7 +15,7 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 # This call to setup() does all the work
 setup(
     name="ground_assistant",
-    version="1.0.4",
+    version="1.1.0",
     description="Library containing functions for the ga daemon.",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -26,11 +26,11 @@ setup(
     classifiers=[
       "Intended Audience :: Developers",
       "Development Status :: 4 - Beta",
-	    "Environment :: Console",
+      "Environment :: Console",
       "License :: Free for non-commercial use",
       "Programming Language :: Python :: 3.8",
       "Operating System :: POSIX :: Linux",
-	    "Topic :: Database :: Database Engines/Servers"
+      "Topic :: Database :: Database Engines/Servers"
     ],
     packages=["ground_assistant"],
     include_package_data=True,
