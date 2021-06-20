@@ -157,5 +157,5 @@ class aprs_logger:
 
     #Prints version.
     def version(self):
-        self.result = "Version: 1.9\n"
+        self.result = "EliServices GA utility aprs.py at version 2.0\n"
         return
