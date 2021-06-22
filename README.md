@@ -1,4 +1,8 @@
-# EliServices Ground-Assistant
+# EliServices Ground-Assistant (Moved to repo Ground-Assistant)
+
+!!! This repository is outdated, the new versions will get uploaded on repo Ground-Assistant. I did this because I discovered travis and git recently, and opening a new repo is just cleaner. !!!
+
+I can't guarrante that the versions are stable!
 
 Above are the versions of the Ground-Assistant library, including the PyPi files and a Desktop Application in 1.1.0
 
